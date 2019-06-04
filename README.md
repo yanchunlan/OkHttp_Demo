@@ -5,3 +5,7 @@
 ### EasyOKHttp：
 
 对外提供的访问类，内部有请求队列池，线程池，重试池维护请求机制
+
+### OkHttp请求流程
+
+![okhttp_full_process.png](./resource/ic_process.png)

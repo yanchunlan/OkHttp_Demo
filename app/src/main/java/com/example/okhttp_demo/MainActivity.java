@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()) {
             case R.id.btn_request:
                 sendJsonRequest();
+                //   未完待续 ： https://github.com/CodeLiuPu/UpdateHttp
                 break;
         }
     }
